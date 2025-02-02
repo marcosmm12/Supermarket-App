@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ent1Def.iml" filepath="$PROJECT_DIR$/Ent1Def.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FONTS/FONTS.iml" filepath="$PROJECT_DIR$/FONTS/FONTS.iml" />
+    </modules>
+  </component>
+</project>

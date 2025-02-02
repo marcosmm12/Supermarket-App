@@ -1,0 +1,126 @@
+Error: El catàleg de productes està buit
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 10
+Id: 2 Nom: Pa Preu: 5
+Id: 1 Nombre: Llet Preu: 10
+Producte eliminat.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Error: El producte amb id 3 no existeix
+Distribució actual:
+2
+-
+-
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 5 Nom: Cereals Preu: 20
+Distribució actual:
+2
+5
+-
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 5 Nom: Cereals Preu: 20
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Error: El producte amb id 2 ja existeix
+Error: l'atribut ID ha de ser un número.
+Error: l'atribut ID ha de ser un número.
+Error: l'atribut preu ha de ser un número.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+El producte amb ID 34 no existeix. Torna a introduir un ID.
+El pes ha de ser un valor entre 0 i 100. Torna a introduir el pes.
+El pes ha de ser un valor entre 0 i 100. Torna a introduir el pes.
+Producte afegit correctament.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 5 Nom: Cereals Preu: 20
+Id: 6 Nom: Patates2 Preu: 7
+Id: 43 Nom: Patates Preu: 12
+Distribució actual:
+5 6
+43 2
+- -
+Error: El producte amb id 32 no existeix
+Error: l'atribut ID ha de ser un número.
+Producte eliminat.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 6 Nom: Patates2 Preu: 7
+Id: 43 Nom: Patates Preu: 12
+Selecciona quin algorisme vols utilitzar:
+1 - Força bruta
+2 - Aproximació
+Opció incorrecta.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 6 Nom: Patates2 Preu: 7
+Id: 43 Nom: Patates Preu: 12
+Distribució actual:
+6
+2
+43
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Selecciona quin algorisme vols utilitzar:
+1 - Força bruta
+2 - Aproximació
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Error: El producte amb id 3 no existeix
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 6 Nom: Patates2 Preu: 7
+Id: 7 Nom: Olives Preu: 24
+Id: 43 Nom: Patates Preu: 12
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Opció incorrecta.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 6 Nom: Patates2 Preu: 7
+Id: 7 Nom: Olives Preu: 24
+Id: 43 Nom: Patates Preu: 12
+Id: 345 Nom: Cocktel Preu: 23
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Productes del catàleg:
+Id: 2 Nom: Pa Preu: 5
+Id: 6 Nom: Patates2 Preu: 23
+Id: 43 Nom: Patates Preu: 12
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Error: El producte amb id 12 no existeix

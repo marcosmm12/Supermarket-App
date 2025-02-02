@@ -1,0 +1,112 @@
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Distribució actual:
+1 3
+0 4
+2 -
+Productes del catàleg:
+Id: 0 Nom: llet Preu: 3
+Id: 1 Nom: iogur Preu: 2
+Id: 2 Nom: ous Preu: 4
+Id: 3 Nom: aigua Preu: 1
+Id: 4 Nom: galetes Preu: 6
+Selecciona quin algorisme vols utilitzar:
+1 - Força bruta
+2 - Aproximació
+Distribució actual:
+1 0
+2 4
+3 -
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Error: El id2 ja esta sent utilitzat.
+Productes del catàleg:
+Id: 0 Nom: llet Preu: 3
+Id: 1 Nom: iogur Preu: 2
+Id: 2 Nom: ous Preu: 4
+Id: 3 Nom: aigua Preu: 1
+Id: 4 Nom: galetes Preu: 6
+Distribució actual:
+1 0
+2 4
+3 -
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Error: El producte amb id 5 no existeix
+Productes del catàleg:
+Id: 0 Nom: llet Preu: 3
+Id: 1 Nom: iogur Preu: 2
+Id: 2 Nom: ous Preu: 4
+Id: 3 Nom: aigua Preu: 1
+Id: 4 Nom: galetes Preu: 6
+Distribució actual:
+4 0
+2 1
+3 -
+Error: El producte amb id 10 no existeix
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Distribució actual:
+2 3
+0 23
+4 -
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Selecciona què vols fer:
+1 - Modificar ID
+2 - Modificar nom
+3 - Modificar preu
+4 - Modificar una relació
+Distribució actual:
+2 3
+0 90
+4 -
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Distribució actual:
+2 3
+0 23
+4 -
+Producte eliminat.
+Producte eliminat.
+Distribució actual:
+4
+0
+23
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Error: No existeix cap distribució guardada amb el nom dist3
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Error: No existeix cap distribució guardada amb el nom dist
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Distribució actual:
+2 3
+0 90
+4 -

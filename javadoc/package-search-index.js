@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"controllers"},{"l":"domain"},{"l":"driver"},{"l":"edu.upc.prop.clusterxx"},{"l":"exceptions"},{"l":"libs"},{"l":"persistencia"},{"l":"presentacio"}];updateSearchResults();

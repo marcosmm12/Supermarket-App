@@ -1,0 +1,125 @@
+Error: El catàleg de productes està buit
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Id: 2 Nom: PlayStation Preu: 400
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Opcions disponibles:
+1 - Consultar el catàleg de productes
+2 - Consultar un producte
+3 - Afegir un producte
+4 - Eliminar un producte
+5 - Modificar un producte
+6 - Escollir tipus d'algorisme
+7 - Modificar la distribució actual
+8 - Consultar la distribució actual
+9 - Guardar la distribució actual
+10 - Carregar una distribució guardada
+11 - Mostrar els mètodes disponibles
+0 - Sortir
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Id: 10 Nom: Patata Preu: 1
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Opcions disponibles:
+1 - Consultar el catàleg de productes
+2 - Consultar un producte
+3 - Afegir un producte
+4 - Eliminar un producte
+5 - Modificar un producte
+6 - Escollir tipus d'algorisme
+7 - Modificar la distribució actual
+8 - Consultar la distribució actual
+9 - Guardar la distribució actual
+10 - Carregar una distribució guardada
+11 - Mostrar els mètodes disponibles
+0 - Sortir
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Productes del catàleg:
+Id: 1 Nom: Llet Preu: 3
+Id: 6 Nom: Brocoli Preu: 4
+Id: 333 Nom: Aigua Preu: 1
+Opcions disponibles:
+1 - Consultar el catàleg de productes
+2 - Consultar un producte
+3 - Afegir un producte
+4 - Eliminar un producte
+5 - Modificar un producte
+6 - Escollir tipus d'algorisme
+7 - Modificar la distribució actual
+8 - Consultar la distribució actual
+9 - Guardar la distribució actual
+10 - Carregar una distribució guardada
+11 - Mostrar els mètodes disponibles
+0 - Sortir
+Distribució actual:
+6
+333
+1
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Distribució actual:
+6 333
+1 20
+- -
+Opcions disponibles:
+1 - Consultar el catàleg de productes
+2 - Consultar un producte
+3 - Afegir un producte
+4 - Eliminar un producte
+5 - Modificar un producte
+6 - Escollir tipus d'algorisme
+7 - Modificar la distribució actual
+8 - Consultar la distribució actual
+9 - Guardar la distribució actual
+10 - Carregar una distribució guardada
+11 - Mostrar els mètodes disponibles
+0 - Sortir
+Selecciona quin algorisme vols utilitzar:
+1 - Força bruta
+2 - Aproximació
+Distribució actual:
+6 1
+333 20
+- -
+Opcions disponibles:
+1 - Consultar el catàleg de productes
+2 - Consultar un producte
+3 - Afegir un producte
+4 - Eliminar un producte
+5 - Modificar un producte
+6 - Escollir tipus d'algorisme
+7 - Modificar la distribució actual
+8 - Consultar la distribució actual
+9 - Guardar la distribució actual
+10 - Carregar una distribució guardada
+11 - Mostrar els mètodes disponibles
+0 - Sortir
+Distribució actual:
+6 20
+333 1
+- -

@@ -1,0 +1,42 @@
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Introdueix les relacions del producte (id, pes) (101 per acabar):
+Producte afegit correctament.
+Distribució actual:
+1 2
+3 0
+- -
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Distribució actual:
+0 2
+3 1
+- -
+Selecciona què vols fer:
+1 - Guardar la distribució actual (al programa)
+2 - Guardar la distribució actual en un fitxer
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Distribució actual:
+1 2
+3 0
+- -
+Selecciona què vols fer:
+1 - Carregar una distribució guardada (al programa)
+2 - Carregar una distribució guardada a un fitxer
+Distribució actual:
+0 2
+3 1
+- -
+Producte eliminat.
+Distribució actual:
+2
+3
+0
+Error: El producte amb id 10 no existeix
